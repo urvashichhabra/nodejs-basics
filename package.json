@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "description": "nodejs basics",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urvashichhabra/nodejs-basics.git"
+  },
+  "author": "Urvashi Chhabra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urvashichhabra/nodejs-basics/issues"
+  },
+  "homepage": "https://github.com/urvashichhabra/nodejs-basics#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
